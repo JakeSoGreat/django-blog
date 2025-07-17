@@ -1,4 +1,11 @@
 myenv/
 __pycache__/
 env.py
+blog/fixtures/core.Microsoft*
+core.mongo*
+core.python*
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
 blog/fixtures/
